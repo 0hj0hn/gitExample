@@ -1,1 +1,2 @@
 boss,oh79,Oh,John
+employee,NetID,LastName,FirstName
